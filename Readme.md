@@ -2,8 +2,8 @@
 
 ----
 ### Here I Implemented Three Annotation Types
-> Class Annotation
-> Method Annotation 
+> Class Annotation | 
+> Method Annotation  | 
 > Field Annotation
 
 ----
